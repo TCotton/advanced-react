@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead3b90c-8e9b-49c2-81cc-b15b7c49e444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../frontend/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/components/Meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/components/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/components/Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../frontend/pages/sell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/components/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/components/Page.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +21,9 @@
     <session id="-1769290757">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,12 +41,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -95,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,6 +105,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,24 +138,21 @@
       <option name="presentableId" value="Default" />
       <updated>1539501321049</updated>
       <workItem from="1539501326513" duration="997000" />
+      <workItem from="1539510015762" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="997000" />
+    <option name="totallyTimeSpent" value="1312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="784" y="259" width="1511" height="899" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32970026" />
@@ -169,6 +160,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -184,7 +179,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
